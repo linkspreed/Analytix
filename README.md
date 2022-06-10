@@ -6,7 +6,7 @@ Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for you
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-# <img align="left" alt="Twitter" width="30px" src="https://github.com/aminyasser/aminyasser/blob/main/icons/twitter.png" draggable="false" /> Twitter Clone ([Click to try 🚀](https://sn-amin.000webhostapp.com/))
+# <img align="left" alt="Twitter" width="30px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
 
 Bulit PHP **_Twitter Clone_** IN OOP style and using MYSQL Database. AJAX and Jquery for requests without reloading like Follow/unfollow, like, Search users, Show popups like comment , User lists, etc.
 
