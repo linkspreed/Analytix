@@ -43,7 +43,7 @@ Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for you
 
 **NOTIFICATIONS** – Get periodic emails about your websites performance.
 
-**AND SO MUCH MORE ... **
+**AND SO MUCH MORE ...**
 
 ## More
  
