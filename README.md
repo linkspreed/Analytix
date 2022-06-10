@@ -10,30 +10,55 @@ Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for you
 
 ## Features
 
-- Sign in / Sign UP
-- Post Image or Normal Tweet.
-- Retweet or Qoute Tweet (You can qoute the qouted tweet).
-- Like Tweet.
-- Add Comment and reply to the comment (Nested Comments).
-- Mention User in Tweet or add hashtag to your tweet.
-- Follow/Unfollow user.
-- Get Notification when any previous action happened.
-- Change Username/Password/Email From Settings.
-- Search users by name and username.
-- Edit Profile Like: (Change :avatar/username/cover etc).
+**DASHBOARD** – Get an overview of your account and your tracked websites.
 
-## Running locally
+**STATS** – Get specific statistics & analytics reports for a website:
+- Realtime
+- Overview
+- Behavior
+    - Pages
+    - Landing pages
+    
+-Acquisitions
+    - Referrers
+    - Search engines
+    - Social networks
+    - Campaigns
+    
+- Geographic
+    - Continents
+    - Countries
+    - Cities
+    - Languages
+    
+- Technology
+    - Operating systems
+    - Browsers
+    - Screen resolutions
+    - Devices
+    
+- Events
+
+**EXPORT** – Export your statistics & analytics reports in CSV format.
+
+**NOTIFICATIONS** – Get periodic emails about your websites performance.
+
+**AND SO MUCH MORE ... **
+
+## More
  
- - Create New Database then import twitter.sql file on it.
- - go to PATH **core/classes/connection.php** and add your database info.
+Analytix is **free**, **real-time** and with **unlimited** resources 
+for developers around the world.
+
+Our focus is on **usability** and **security** 
+for our developers, users and anyone who comes into contact with ([Linkspreed 🚀](https://www.linkspreed.com/)).
 
  ```php
-    protected static $servername = "localhost";
-    protected static $db_name="twitter";
-    protected static $username = "root";
-    protected static $password = "";
+    We make sure that our code 
+    is developed properly so that 
+    the platform works as well as possible.
 ```
- then the project is ready to run in localhost!
+ You can enjoy Analytix freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
