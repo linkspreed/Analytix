@@ -64,16 +64,16 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ğŸ
 
 
 ### 1
-<img align="center" alt="Twitter" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
 
 ### 2
-<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
 
 ### 3
-<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### 4
-<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
 
 ### 5
-<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px"src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
