@@ -76,4 +76,4 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ğŸ
 <img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
 
 ### 5
-<img align="center" alt="Analytix" width="3000px"src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
