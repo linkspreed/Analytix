@@ -63,29 +63,29 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ## ðŸ“· UI
 
 
-### Index
-![Index](screenshots/Index.png)
+### 1
+![Index](screenshots/1.png)
 
-### Home
-![Home](screenshots/Home.png)
+### 2
+![Home](screenshots/2.png)
 
-### Tweet and Comments
-![Post](screenshots/Inner-Post.png)
+### 3
+![Post](screenshots/3.png)
 
-### Profile
-![Profile](screenshots/Profile.png)
+### 4
+![Profile](screenshots/4.png)
 
-### Notifications
-![Movie](screenshots/Notifications.png)
+### 5
+![Movie](screenshots/5.png)
 
-### Edit Account
-![Edit](screenshots/Edit.png)
+### 6
+![Edit](screenshots/6.png)
 
-### Preview Image before Tweet
-![Post](screenshots/Post.png)
+### 7
+![Post](screenshots/7.png)
 
-### Users List (For following/likedby etc)
-![Users](screenshots/Users.png)
+### 8
+![Users](screenshots/8.png)
 
-### Setting
-![Setting](screenshots/Setting.png) 
+### 9
+![Setting](screenshots/9.png) 
