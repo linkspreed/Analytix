@@ -64,28 +64,16 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 
 
 ### 1
-![Index](screenshots/1.png)
+<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
 
 ### 2
-![Home](screenshots/2.png)
+<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
 
 ### 3
-![Post](screenshots/3.png)
+<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### 4
-![Profile](screenshots/4.png)
+<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
 
 ### 5
-![Movie](screenshots/5.png)
-
-### 6
-![Edit](screenshots/6.png)
-
-### 7
-![Post](screenshots/7.png)
-
-### 8
-![Users](screenshots/8.png)
-
-### 9
-![Setting](screenshots/9.png) 
+<img align="left" alt="Twitter" width="30px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
