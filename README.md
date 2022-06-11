@@ -1,6 +1,7 @@
 # <img align="left" alt="Twitter" width="30px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
 
 Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+([Changelog 💙](https://analytix.tk/))
 
 
 <div align="center">
