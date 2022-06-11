@@ -2,7 +2,7 @@
 
 Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
-**([Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/README.md)** **Check out the full Analytix changelog**
+**[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.txt)** **Check out the full Analytix changelog**
 
 
 <div align="center">
