@@ -1,3 +1,29 @@
+# 3.3.0 — 18 July 2022
+ - Added the ability to change the default Do Not Track option on tracking codes
+ - Added the ability to change the Email Reports to Monthly or Weekly
+ - Improved the cron jobs system
+ - Fixed search not working on User Dashboard and the Websites API endpoint
+ - Other minor improvements
+
+# 3.2.0 — 7 July 2022
+ - Improved adding new Website process: URL protocol is no longer required
+ - Improved the API Documentation
+ - Other minor improvements
+
+# 3.1.0 — 26 June 2022
+ - Added new payment gateway: Paystack (checkout using a credit card)
+ - Added new payment gateway: Razorpay (checkout using a credit card)
+ - Added new payment gateway: Crypto.com (checkout using a cryptocurrency)
+ - Added Two-factor Authentication system
+ - Added Webhooks on User Store, Update, and Delete events
+ - Added both light and dark mode logos
+ - Added the ability to create coupons with unlimited quantity number
+ - Improved the dark mode
+ - Updated all the dependencies to their latest versions
+ - Fixed an issue that would immediately remove the User's plan features after cancellation
+ - Fixed an issue that was preventing tracking Events with values between 0 and 1
+ - Other minor improvements
+
 # 3.0.0 — 18 April 2022
 - Added new filters on all table lists (column order, order direction, per page limits)
 - Added the ability to set the Plan's position on the Pricing listings
