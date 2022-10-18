@@ -1,4 +1,8 @@
 ### 18.10.2022 (announcement Analytix)
+- The entire changelog up to version 3.4.0 is now available on Github.
+- https://github.com/linkspreed/Analytix/blob/main/changelog.md
+
+### 18.10.2022 (announcement Analytix)
 - Version 3.4.0 has been released successfully. 😺
 
 ### 18.10.2022 (announcement Analytix)
