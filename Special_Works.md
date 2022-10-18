@@ -1,4 +1,7 @@
 ### 18.10.2022 (announcement Analytix)
+- Version 3.4.0 has been released successfully. 😺
+
+### 18.10.2022 (announcement Analytix)
 - We are starting to launch version 3.4.0 now :)
 
 ### 18.10.2022 (announcement Analytix)
