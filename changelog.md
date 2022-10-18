@@ -1,3 +1,9 @@
+# 3.4.0 — 18 October 2022
+ - Improved the API key length (increased to 64 characters)
+ - Fixed the Search functionality not working for Pages
+ - Fixed an issue with the Stats API endpoint when no resource ID was provided
+ - Other minor improvements
+
 # 3.3.0 — 18 July 2022
  - Added the ability to change the default Do Not Track option on tracking codes
  - Added the ability to change the Email Reports to Monthly or Weekly
