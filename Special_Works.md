@@ -1,4 +1,7 @@
 ### 04.01.2023 (announcement Analytix)
+-  **Analytix** gets a big update today - we are going to launch v3.5.0. 😍
+
+### 04.01.2023 (announcement Analytix)
 - Soon we will release version 3.5 for **Analytix**.
 
 ### 18.10.2022 (announcement Analytix)
