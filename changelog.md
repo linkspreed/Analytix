@@ -1,3 +1,18 @@
+# 3.5.0 — 4 January 2023
+ - Added new Plan feature: Websites
+ - Added new Plan feature: Email Reports
+ - Added new Plan feature: Data Export
+ - Added new Plan feature: API
+ - Added the Plan features under the User Plan section
+ - Added translation ability for the Announcements content
+ - Improved the cron jobs system (updated command parameter to prevent file creation on some servers)
+ - Updated all the dependencies to their latest versions
+ - Fixed www and non-www domains being added separately
+ - Fixed several missing language strings
+ - Fixed User Dashboard pagination not remembering the selected date range
+ - Fixed several elements not being rendered correctly while on Dark Mode
+ - Other minor improvements
+
 # 3.4.0 — 18 October 2022
  - Improved the API key length (increased to 64 characters)
  - Fixed the Search functionality not working for Pages
