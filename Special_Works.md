@@ -1,3 +1,6 @@
+### 04.01.2023 (announcement Analytix)
+- Soon we will release version 3.5 for **Analytix**.
+
 ### 18.10.2022 (announcement Analytix)
 - The entire changelog up to version 3.4.0 is now available on Github.
 - https://github.com/linkspreed/Analytix/blob/main/changelog.md
