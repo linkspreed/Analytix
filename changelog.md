@@ -1,3 +1,7 @@
+# 3.5.1 — 07 January 2023
+- Fixed some minor bugs
+- Fixed some design improvements
+
 # 3.5.0 — 4 January 2023
  - Added new Plan feature: Websites
  - Added new Plan feature: Email Reports
