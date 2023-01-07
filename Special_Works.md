@@ -1,4 +1,7 @@
 ### 07.01.2023 (announcement Analytix)
+- The servers are now ready for the launch of version 3.5.1 for **Analytix**.
+
+### 07.01.2023 (announcement Analytix)
 - The code is now ready for the launch of version 3.5.1 for **Analytix**.
 
 ### 07.01.2023 (announcement Analytix)
