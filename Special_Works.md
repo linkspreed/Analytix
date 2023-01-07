@@ -1,3 +1,6 @@
+### 07.01.2023 (announcement Analytix)
+- We're currently working on v3.5.1 for **Analytix**!
+
 ### 04.01.2023 (announcement Analytix)
 - https://github.com/linkspreed/Analytix/blob/main/changelog.md
 - The entire changelog is now available on Github.
