@@ -1,4 +1,8 @@
 ### 07.01.2023 (announcement Analytix)
+- https://github.com/linkspreed/Analytix/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 07.01.2023 (announcement Analytix)
 - The launch of version 3.5.1 of **Analytix** was successful! 🥳
 - The new update is live now :)
 - https://analytix.tk 🔗
