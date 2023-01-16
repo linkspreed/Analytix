@@ -1,4 +1,9 @@
 ### 16.01.2023 (announcement Analytix)
+- The launch of version 3.6 of **Analytix** was successful! 🥳
+- The new update is live now :)
+- https://analytix.tk 🔗
+
+### 16.01.2023 (announcement Analytix)
 - We are now starting the launch of v3.6.
 
 ### 16.01.2023 (announcement Analytix)
