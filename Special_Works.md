@@ -1,3 +1,7 @@
+### 24.01.2023 (announcement Analytix)
+- Now you can also access Analytix via the following Linkspreed subdomain for the launch!
+- https://analytix.linkspreed.com/
+
 ### 16.01.2023 (announcement Analytix)
 - https://github.com/linkspreed/Analytix/blob/main/changelog.md
 - The entire changelog is now available on Github.
