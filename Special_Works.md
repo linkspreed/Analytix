@@ -1,3 +1,6 @@
+### 30.01.2023 (announcement Analytix)
+-  **Analytix** gets a big update today - we are going to launch v3.6.1. 😍
+
 ### 24.01.2023 (announcement Analytix)
 - Now you can also access Analytix via the following Linkspreed subdomain for the launch!
 - https://analytix.linkspreed.com/
