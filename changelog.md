@@ -1,3 +1,7 @@
+# 3.6.1 — 30 January 2023
+ - Fixed some minor bugs
+ - Fixed some design improvements
+
 # 3.6.0 — 16 January 2023
  - Improved the UI for the Pricing Plans (FREE & UNLIMITED)
  - Fixed the Payments filter not including Cancelled payments when searching by Invoice ID (NOT ACTIVE)
