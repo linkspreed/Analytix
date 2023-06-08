@@ -1,3 +1,6 @@
+### 08.06.2023 (announcement Analytix)
+- 🎉 Exciting News 🎉 We have added Analytix to our subdomain system 🚀 That means that the domain analytix.tk will now redirect to analytix.linkspreed.com 🤝 Rest assured, you can still use everything as before and no data will be lost 💻 Have you checked it out yet⁉️ #Analytix #Linkspreed #Subdomain
+
 ### 30.01.2023 (announcement Analytix)
 - https://github.com/linkspreed/Analytix/blob/main/changelog.md
 - The entire changelog is now available on Github.
